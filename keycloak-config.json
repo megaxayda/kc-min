@@ -1,0 +1,8 @@
+{
+    "serverUrl": "http://localhost:8080",
+    "realm": "realm",
+    "clientId": "clientId",
+    "clientSecret": "your-client-secret",
+    "redirectUri": "http://localhost:5174/callback",
+    "logoutRedirectUri": "http://localhost:5174"
+}
